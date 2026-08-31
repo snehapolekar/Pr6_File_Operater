@@ -61,9 +61,9 @@ Through this project, you can learn and understand:
 Personal Journal Manager is a simple and useful application for managing daily journal entries. This project demonstrates the practical use of important Python concepts such as Object-Oriented Programming, file handling, exception handling, loops, and conditional statements.
 
 
-## Explanation Vudeo :
+## Explanation Video :
 
-
+https://drive.google.com/file/d/12TXPz3BIu4KGFTXebi-fMeihSCo1eUja/view?usp=sharing
 
 ## 👩‍💻 Author
 
